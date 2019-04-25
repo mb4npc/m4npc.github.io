@@ -19,12 +19,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   The official campaign website for Michelle Bruder's National Political Committee run, within the Democratic Socialists of America. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mb4npc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: 4thplanetisred
 github_username:  brotherjack
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: alembic-jekyll-theme
+#remote_theme: daviddarnes/alembic
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
