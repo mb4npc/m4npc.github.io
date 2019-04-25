@@ -24,10 +24,11 @@ github_username:  brotherjack
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+remote_theme: daviddarnes/alembic
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
