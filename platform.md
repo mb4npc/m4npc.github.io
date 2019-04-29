@@ -2,6 +2,8 @@
 title: Platform
 ---
 
+<img src="{{site.baseurl}}/images/michelle_facilitating.jpg" alt="Michelle facilitating a workshop at the First Florida DSA Statewide Conference">
+
 - Recognizing diversity in organizing across different geographical and political climates
     - Population density, jurisdiction size for locals and transportation infrastructure all create a variety of organizing needs - the same tactics won’t necessarily work for different chapters. The tactics and campaigns we use are affected by how people in our area get to work, the working and housing conditions they exist under, the weather, the demographics of an area, and countless other factors. We must recognize these differences and embrace them in order to organize effectively nationwide. 
 - Aggressive bottom-up organizing
