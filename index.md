@@ -1,9 +1,10 @@
 ---
-title: MB 4 NPC
+title:  Michelle Bruder for the DSA National Political Committee
 ---
-# Michelle Bruder for the DSA National Political Committee
+
 
 <img align="left" src="{{site.baseurl}}/images/michelle_and_friends.jpg" alt="Michelle after the First Florida DSA Statewide Conference">
+
 
 ## What I think needs to be done nationally
 
