@@ -20,15 +20,17 @@ title: Platform
     - The formation of a formalized childcare program at all national events, conferences and conventions, as well as for national staff. 
     - Resources and guides for formalized childcare that all chapters can use, that includes information on background checks, certifications, age appropriate entertainment,childproofing and safety practices.
     - Creation of resources for socialist education programs for children for events that focus on educating and engaging children with socialism in an age appropriate manner.
-- A greater focus on inclusivity and accomodations for families of all types.
+    - A greater focus on inclusivity and accomodations for families of all types.
 - Ecosocialism as a foundationial ideology of the DSA
     - Climate change is here and no effective work towards building socialism can be done without consideration of environmental impacts and issues. Every single national priority and campaign MUST include ecosocialist principles in order to be lasting and effective. Climate change is impacting and will continue to impact the working class significantly more than the ruling class and will continue to apply greater stress to people of color, people in the Global South, and our poorest comrades. Therefore, ecosocialism can not be separated from any other priority or working group and no other work can be separated from it. 
     - DSA should prioritize campaigns
-- To nationalize the energy infrastructure
+        - To nationalize the energy infrastructure
         - To address unsustainable, unjust, and inefficient food systems
         - To recognize and combat instances of environmental racism
         - Which use realistic and science based models of climate change to inform discussion
-- DSA is failing at including and appealing to marginalized groups.
-    - Address the needs of marginalized groups and not what we think their needs are. This means that actions and campaigns which largely impact a certain marginalized group should be led by members of that group in all cases. If nobody is available to lead the campaign from the affected communities, then work should halt until this is possible.
-    - DSA should actively work to make spaces inclusive to members of marginalized groups. This might include considering meeting locations, nongendered bathrooms, reducing interactions with law enforcement, accessibility and accommodations for members with disabilities and organizational culture.
+- DSA is failing at including and appealing to marginalized groups, especially the Latinx working class.
+    - Address the real needs of marginalized groups and not what we think their needs are. This means that actions and campaigns which largely impact a certain marginalized group should be led by members of that group in all cases. If nobody is available to lead the campaign from the affected communities, then work should halt until this is possible.
+    - DSA should actively work to make spaces inclusive to members of marginalized groups. This might include considering meeting locations, nongendered bathrooms, reducing interactions with law enforcement, accessibility and accommodations for members with disabilities, and organizational culture.
     - We should center the voices of marginalized groups in our organizing without also expecting a disproportionate amount of physical and mental labor.
+    - DSA should prioritize campaigns that disproportionately affect marginalized groups, including but not limited to immigration issues, Puerto Ricans and Hurricane Maria recovery, environmental racism (which largely impacts black and Native American communities), and accessibility for disabled persons. 
+
