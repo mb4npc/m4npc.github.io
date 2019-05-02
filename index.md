@@ -1,5 +1,5 @@
 ---
-title:  Michelle Bruder for the DSA National Political Committee
+title:  Michelle for NPC
 ---
 
 
