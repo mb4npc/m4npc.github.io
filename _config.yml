@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The official campaign website for Michelle Bruder's National Political Committee run, within the Democratic Socialists of America. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mb4npc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: "https://github.com/daviddarnes/alembic"
 twitter_username: 4thplanetisred
 github_username:  brotherjack
 
@@ -29,6 +30,30 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-seo-tag
+
+navigation_header:
+- title: Michelle for NPC
+  url: /
+- title: Platform
+  url: /platform/
+- title: About Me
+  url: /about_me/
+- title: Publications
+  url: /Publications/
+- title: Endorsements and Resolutions
+  url: /endorsements_and_resolutions/
+
+navigation_footer:
+- title: Michelle for NPC
+  url: /
+- title: Platform
+  url: /platform/
+- title: About Me
+  url: /about_me/
+- title: Publications
+  url: /Publications/
+- title: Endorsements and Resolutions
+  url: /endorsements_and_resolutions/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
