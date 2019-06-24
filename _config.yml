@@ -35,25 +35,25 @@ navigation_header:
 - title: Michelle for NPC
   url: /
 - title: Platform
-  url: /platform/
+  url: /platform.html
 - title: About Me
-  url: /about_me/
+  url: /about_me.html
 - title: Publications
-  url: /Publications/
+  url: /Publications.html
 - title: Endorsements and Resolutions
-  url: /endorsements_and_resolutions/
+  url: /endorsements_and_resolutions.html
 
 navigation_footer:
 - title: Michelle for NPC
   url: /
 - title: Platform
-  url: /platform/
+  url: /platform.html
 - title: About Me
-  url: /about_me/
+  url: /about_me.html
 - title: Publications
-  url: /Publications/
+  url: /Publications.html
 - title: Endorsements and Resolutions
-  url: /endorsements_and_resolutions/
+  url: /endorsements_and_resolutions.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
