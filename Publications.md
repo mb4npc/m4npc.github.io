@@ -1,5 +1,6 @@
 ---
 title: Publications
+layout: page
 ---
 
 Read some of my articles:

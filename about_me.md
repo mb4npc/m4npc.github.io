@@ -1,5 +1,6 @@
 ---
 title: About Me
+layout: page
 ---
 
 My name is Michelle. I am a Puerto Rican Floridian. I really like birds, whales and DSA.

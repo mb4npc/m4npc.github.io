@@ -1,5 +1,6 @@
 ---
 title:  Michelle for NPC
+layout: page
 ---
 
 
