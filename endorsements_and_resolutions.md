@@ -9,7 +9,7 @@ layout: page
 - [DSA Libertarian Socialist Caucus](https://dsa-lsc.org/)
 
 ## Who has recommended me
-- [DSA Build](https://dsabuild.org/convention)
+- [Build DSA](https://dsabuild.org/convention)
 
 ## Ammendments and Resolutions I Have Authored or Co-Authored
 
